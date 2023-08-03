@@ -1,2 +1,1 @@
-# RocketLaunch
-This is an animation made from Python that shows a rocket being launched from a blue planet. 
+This animation is made in Python and it is about a rocket launching off a blue planet. In addition there are three other planets and six stars in the background. This program uses very little code and I hope you enjoy the project. 
